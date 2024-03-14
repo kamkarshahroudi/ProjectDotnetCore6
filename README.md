@@ -6,11 +6,13 @@ Data Base: SQL Server Used.
 
 This project performs four main operations in the database :
 
-Insert data with post 
+1-Insert data with post 
 
-Delete from the database with Delete 
+2-Delete from the database with Delete 
 
-Edit data with put and showing the data with Get 
+3-Edit data with put and 
+
+4-showing the data with Get 
 
 Therefore, to run this project, you need to install 
 
