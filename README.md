@@ -27,3 +27,6 @@ and you can use Swagger after project execution And
 you can also use these four main actions with Angular, which shows you the data in tables as a Front-End, from the following address :
 https://github.com/kamkarshahroudi/ProjectAngular
 
+## Note: Don't forget the "Script-Data base SQL server.sql" file, for the project to work with the database, you need to add this database script to SQLServer. This file there is in the project.
+
+
